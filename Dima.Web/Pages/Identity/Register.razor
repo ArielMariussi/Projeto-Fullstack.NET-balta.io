@@ -1,0 +1,54 @@
+﻿@page "/comecar"
+@layout HeadlessLayout
+@inherits RegisterPage
+
+<PageTitle> Dima - Entrar</PageTitle>
+
+<MudGrid Justify="Justify.Center">
+    <MudItem xs="12" sm="12" md="8" lg="6" xl="6" xxl="6">
+        <MudPaper class="mud-width-full pa-8">
+            <div class="d-flex justify-center pb-8 pt-8">
+                <img src="imgs/dima.png" alt="Dima - Controle Financeiro"
+                     width="200" />
+            </div>
+
+            <EditForm Model="@InputModel" OnValidSubmit="OnValidSubmitAsync">
+                <DataAnnotationsValidator />
+
+            
+            <MudTextField 
+                T="string"
+                Label="E-mail"
+                HelperText="Campo obrigatorio"
+                Required=true RequiredError="Informe o e-mail"
+                InputType="InputType.Email"
+                For="@(() => InputModel.Email)"
+                @bind-Value="InputModel.Email" />
+             
+
+            <MudTextField
+                T="string" 
+                Label="Senha"
+                HelperText="Campo obrigatorio"
+                InputType="InputType.Password"
+                For="@(() => InputModel.Password)"
+                @bind-Value="InputModel.Password" />
+
+            </EditForm>
+
+            <div class="d-flex mt-8">
+                @if (IsBusy)
+                {
+                    <MudProgressCircular Color="Color.Info" Indeterminate="true" />
+                }
+                else
+                {
+                    <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary">COMEÇAR</MudButton>
+                    <MudSpacer />
+                    <MudButton Href="/login">JA TENHO UMA CONTA</MudButton>
+                }
+            </div>
+        </MudPaper>
+    </MudItem>
+</MudGrid>
+

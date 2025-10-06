@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\pages\\identity\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\identity\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\pages\\identity\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\identity\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C82FC5-4472-44FE-8004-7BB26B88DA01}|Dima.Api\\Dima.Api.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25C82FC5-4472-44FE-8004-7BB26B88DA01}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\handlers\\accounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\handlers\\accounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountHandler.cs",
+              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Handlers\\AccountHandler.cs",
+              "RelativeDocumentMoniker": "Dima.Web\\Handlers\\AccountHandler.cs",
+              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Handlers\\AccountHandler.cs",
+              "RelativeToolTip": "Dima.Web\\Handlers\\AccountHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T21:31:08.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.razor.cs",
+              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Register.razor.cs",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Register.razor.cs",
+              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Register.razor.cs",
+              "RelativeToolTip": "Dima.Web\\Pages\\Identity\\Register.razor.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T21:26:30.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.razor",
+              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Register.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Register.razor",
+              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Register.razor",
+              "RelativeToolTip": "Dima.Web\\Pages\\Identity\\Register.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T21:09:27.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\wwwroot\\appsettings.json",
+              "RelativeDocumentMoniker": "Dima.Web\\wwwroot\\appsettings.json",
+              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\wwwroot\\appsettings.json",
+              "RelativeToolTip": "Dima.Web\\wwwroot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T21:03:06.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Dima.Api\\appsettings.json",
+              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Api\\appsettings.json",
+              "RelativeToolTip": "Dima.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T20:59:42.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
