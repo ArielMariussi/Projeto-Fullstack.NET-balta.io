@@ -151,3 +151,4 @@ D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\refint\Dima.Api.
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.pdb
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.genruntimeconfig.cache
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\ref\Dima.Api.dll
+D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.sourcelink.json

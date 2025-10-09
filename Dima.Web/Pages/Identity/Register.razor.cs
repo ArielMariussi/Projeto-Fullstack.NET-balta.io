@@ -51,11 +51,11 @@ public partial class RegisterPage : ComponentBase
             var result = await Handler.RegisterAsync(InputModel);
             if (result.IsSuccess)
             {
-                Snackbar.Add(result.Message, Severity.Success);
+                Snackbar.Add(result.Message!, Severity.Success);
                 NavigationManager.NavigateTo("/login");
             }
             else
-                Snackbar.Add(result.Message, Severity.Error);
+                Snackbar.Add(result.Message!, Severity.Error);
         }
         catch (Exception ex)
         {

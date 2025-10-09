@@ -1085,8 +1085,9 @@ D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\t4b5e
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\w6g37j008q-f96etlqg03.gz
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\sy36z0w5op-8u7hd4iwzw.gz
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\tx10qiri4r-zyudcniekx.gz
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\v14mgxtdy5-azxhtgu2q1.gz
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\iwwm1ri144-623o423ewn.gz
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\x6alf0fgek-elligtczut.gz
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\oq45vght1f-ult3ltm1h5.gz
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\mvidceechf-lmejry106j.gz
+D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\Dima.Web.sourcelink.json
+D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\v14mgxtdy5-0dpmksbyos.gz
+D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\iwwm1ri144-22cl1ulf5q.gz
+D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\x6alf0fgek-5idf2dz3dy.gz
+D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\oq45vght1f-bblkw7k549.gz
+D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Web\obj\Debug\net8.0\compressed\mvidceechf-wjebs8h77s.gz

@@ -9,3 +9,4 @@ D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\Dima.Core.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\refint\Dima.Core.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\Dima.Core.pdb
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\ref\Dima.Core.dll
+D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\Dima.Core.sourcelink.json
