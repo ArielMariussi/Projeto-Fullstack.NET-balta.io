@@ -1,5 +1,6 @@
 ﻿using Dima.Core.Handlers;
 using Dima.Core.Requests.Account;
+using Dima.Web.Security;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Authorization;
 using MudBlazor;
@@ -20,7 +21,7 @@ public partial class RegisterPage : ComponentBase
     public NavigationManager NavigationManager { get; set; } = null!;
 
     [Inject]
-    public AuthenticationStateProvider AuthenticationStateProvider { get; set; } = null!;
+    public ICookieAuthenticationStateProvider AuthenticationStateProvider { get; set; } = null!;
 
     #endregion
 
