@@ -9,8 +9,6 @@ D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Dima.Api.pdb
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Azure.Core.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Azure.Identity.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Humanizer.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -24,15 +22,7 @@ D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Entity
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -48,7 +38,6 @@ D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Mono.TextTemplat
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\System.ClientModel.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\System.CodeDom.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -137,6 +126,7 @@ D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.Assembl
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.csproj.CoreCompileInputs.cache
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.sourcelink.json
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -151,4 +141,3 @@ D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\refint\Dima.Api.
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.pdb
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.genruntimeconfig.cache
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\ref\Dima.Api.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.sourcelink.json

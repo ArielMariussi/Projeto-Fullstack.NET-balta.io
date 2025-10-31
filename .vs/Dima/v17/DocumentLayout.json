@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\pages\\categories\\list.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\categories\\list.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\layouts\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\layouts\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\pages\\categories\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\categories\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\dima.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\dima.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\pages\\identity\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\identity\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\pages\\identity\\logout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\identity\\logout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\pages\\identity\\login.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\identity\\login.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\pages\\identity\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\identity\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|d:\\ariel\\balta.io\\fullstack .net\\dima\\dima.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5403135F-6840-4621-A4E1-D7CC7E5BFC3D}|Dima.Web\\Dima.Web.csproj|solutionrelative:dima.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,114 +22,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "Dima.Web\\wwwroot\\index.html",
-              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\wwwroot\\index.html",
-              "RelativeToolTip": "Dima.Web\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-10T18:51:50.832Z",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Dima.Web\\Program.cs",
+              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Program.cs",
+              "RelativeToolTip": "Dima.Web\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:28:59.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Layouts\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Dima.Web\\Layouts\\MainLayout.razor",
-              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Layouts\\MainLayout.razor",
-              "RelativeToolTip": "Dima.Web\\Layouts\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Create.razor",
+              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Categories\\Create.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Categories\\Create.razor",
+              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Categories\\Create.razor",
+              "RelativeToolTip": "Dima.Web\\Pages\\Categories\\Create.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T18:51:25.764Z",
+              "WhenOpened": "2025-10-31T15:18:40.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "app.css",
-              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\wwwroot\\css\\app.css",
-              "RelativeDocumentMoniker": "Dima.Web\\wwwroot\\css\\app.css",
-              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\wwwroot\\css\\app.css",
-              "RelativeToolTip": "Dima.Web\\wwwroot\\css\\app.css",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-10T18:50:11.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dima.Web",
-              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Dima.Web.csproj",
-              "RelativeDocumentMoniker": "Dima.Web\\Dima.Web.csproj",
-              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Dima.Web.csproj",
-              "RelativeToolTip": "Dima.Web\\Dima.Web.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-10T18:49:34.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Logout.razor",
-              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Logout.razor",
-              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Logout.razor",
-              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Logout.razor",
-              "RelativeToolTip": "Dima.Web\\Pages\\Identity\\Logout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T18:27:01.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Logout.razor.cs",
-              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Logout.razor.cs",
-              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Logout.razor.cs",
-              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Logout.razor.cs",
-              "RelativeToolTip": "Dima.Web\\Pages\\Identity\\Logout.razor.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwCMAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "List.razor.cs",
+              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Categories\\List.razor.cs",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Categories\\List.razor.cs",
+              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Categories\\List.razor.cs",
+              "RelativeToolTip": "Dima.Web\\Pages\\Categories\\List.razor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T18:26:43.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.razor.cs",
-              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Register.razor.cs",
-              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Register.razor.cs",
-              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Register.razor.cs",
-              "RelativeToolTip": "Dima.Web\\Pages\\Identity\\Register.razor.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwCoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T18:18:01.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.razor.cs",
-              "DocumentMoniker": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Login.razor.cs",
-              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Identity\\Login.razor.cs",
-              "ToolTip": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Pages\\Identity\\Login.razor.cs",
-              "RelativeToolTip": "Dima.Web\\Pages\\Identity\\Login.razor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T18:16:57.582Z",
+              "WhenOpened": "2025-10-31T15:17:36.85Z",
               "EditorCaption": ""
             }
           ]

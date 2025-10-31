@@ -1,6 +1,6 @@
 ﻿@page "/comecar"
 @layout HeadlessLayout
-@inherits RegisterPage
+@inherits RegisterPage 
 
 <PageTitle> Dima - Entrar</PageTitle>
 
@@ -34,8 +34,6 @@
                 For="@(() => InputModel.Password)"
                 @bind-Value="InputModel.Password" />
 
-            </EditForm>
-
             <div class="d-flex mt-8">
                 @if (IsBusy)
                 {
@@ -48,6 +46,7 @@
                     <MudButton Href="/login">JA TENHO UMA CONTA</MudButton>
                 }
             </div>
+            </EditForm>
         </MudPaper>
     </MudItem>
 </MudGrid>

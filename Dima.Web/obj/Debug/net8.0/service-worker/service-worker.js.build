@@ -1,4 +1,4 @@
-/* Manifest version: P7o1JceR */
+/* Manifest version: MnID9ujP */
 // In development, always fetch from the network and do not enable offline support.
 // This is because caching would make development more difficult (changes would not
 // be reflected on the first load after each change).

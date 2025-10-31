@@ -31,12 +31,28 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Ariel/Balta.io/Fullstack .NET/Dima/Dima.Web/Components/Identity/LoginRedirect.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJZGVudGl0eVxMb2dpblJlZGlyZWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ariel/Balta.io/Fullstack .NET/Dima/Dima.Web/Components/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Ariel/Balta.io/Fullstack .NET/Dima/Dima.Web/Layouts/HeadlessLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xIZWFkbGVzc0xheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Ariel/Balta.io/Fullstack .NET/Dima/Dima.Web/Layouts/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ariel/Balta.io/Fullstack .NET/Dima/Dima.Web/Pages/Categories/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ariel/Balta.io/Fullstack .NET/Dima/Dima.Web/Pages/Categories/List.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Ariel/Balta.io/Fullstack .NET/Dima/Dima.Web/Pages/Home.razor]

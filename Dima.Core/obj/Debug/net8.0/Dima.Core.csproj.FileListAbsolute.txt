@@ -5,8 +5,8 @@ D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\Dima.Core.Gener
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\Dima.Core.AssemblyInfoInputs.cache
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\Dima.Core.AssemblyInfo.cs
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\Dima.Core.csproj.CoreCompileInputs.cache
+D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\Dima.Core.sourcelink.json
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\Dima.Core.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\refint\Dima.Core.dll
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\Dima.Core.pdb
 D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\ref\Dima.Core.dll
-D:\Ariel\Balta.io\Fullstack .NET\Dima\Dima.Core\obj\Debug\net8.0\Dima.Core.sourcelink.json

@@ -12,6 +12,6 @@ public interface ITransactionHandler
 
     Task<Response<Transaction?>> GetByIdAsync(GetTransactionByIdRequest request);
 
-    Task<PagedResponse<List<Transaction?>>> GetByPeriodAsync(GetTransactionsByPeriodRequest request);
+    Task<PagedResponse<List<Transaction>?>> GetByPeriodAsync(GetTransactionsByPeriodRequest request);
 
 }

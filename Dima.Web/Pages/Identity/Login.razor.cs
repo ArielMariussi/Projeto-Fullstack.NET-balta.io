@@ -2,8 +2,7 @@
 using Dima.Core.Requests.Account;
 using Dima.Web.Security;
 using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Authorization;
-using MudBlazor;
+using MudBlazor;         
 
 namespace Dima.Web.Pages.Identity
 {
@@ -54,10 +53,12 @@ namespace Dima.Web.Pages.Identity
                 var result = await Handler.LoginAsync(InputModel);
                 if (result.IsSuccess)
                 {
+                    await AuthenticationStateProvider.GetAuthenticationStateAsync();
+                    AuthenticationStateProvider.NotifyAuthenticationStateChanged();
                     NavigationManager.NavigateTo("/");
                 }
                 else
-                    Snackbar.Add(result.Message!, Severity.Error);
+                    Snackbar.Add(result.Message, Severity.Error);
             }
             catch (Exception ex)
             {

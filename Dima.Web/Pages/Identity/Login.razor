@@ -33,8 +33,7 @@
                               For="@(() => InputModel.Password)"
                               @bind-Value="InputModel.Password" />
 
-            </EditForm>
-
+         
             <div class="d-flex mt-8">
                 @if (IsBusy)
                 {
@@ -47,6 +46,8 @@
                     <MudButton Href="/comecar">QUERO ME CADASTRAR</MudButton>
                 }
             </div>
+
+            </EditForm>
          
       </MudPaper>
     </MudItem>

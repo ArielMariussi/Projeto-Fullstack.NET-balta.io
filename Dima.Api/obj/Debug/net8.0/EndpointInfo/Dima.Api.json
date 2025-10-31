@@ -768,10 +768,6 @@
       "Azure.Response`1[[Dima.Core.Models.Category, Dima.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]": {
         "type": "object",
         "properties": {
-          "hasValue": {
-            "type": "boolean",
-            "readOnly": true
-          },
           "value": {
             "$ref": "#/components/schemas/Dima.Core.Models.Category"
           }
