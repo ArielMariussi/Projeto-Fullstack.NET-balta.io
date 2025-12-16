@@ -24,7 +24,7 @@ namespace Dima.Api.Endpoints.Transactions
         public static async Task<IResult> HandleAsync(
             ClaimsPrincipal user,
         ITransactionHandler handler,
-        [FromQuery] DateTime? starDate = null,
+        [FromQuery] DateTime? startDate = null,
         [FromQuery] DateTime? endDate = null,
         [FromQuery] int pageNumber = Configuration.DefaultPageNumber,
         [FromQuery] int pageSize = Configuration.DefaultPageSize)
@@ -34,7 +34,7 @@ namespace Dima.Api.Endpoints.Transactions
                 UserId = user.Identity?.Name ?? string.Empty,
                 PageNumber = pageNumber,
                 PageSize = pageSize,
-                StartDate = starDate,
+                StartDate = startDate,
                 EndDate = endDate
             };
 

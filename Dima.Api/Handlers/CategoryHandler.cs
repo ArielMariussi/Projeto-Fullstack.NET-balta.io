@@ -53,7 +53,7 @@ public class CategoryHandler(AppDbContext context) : ICategoryHandler
         }
     }
 
-    public async Task<PagedResponse<List<Category?>>> GetAllAsync(GetAllCategoriesRequest request)
+    public async Task<PagedResponse<List<Category>>> GetAllAsync(GetAllCategoriesRequest request)
     {
         try
         {
@@ -70,7 +70,7 @@ public class CategoryHandler(AppDbContext context) : ICategoryHandler
 
             var count = await query.CountAsync();
 
-            return new PagedResponse<List<Category?>>(categories,
+            return new PagedResponse<List<Category>>(categories,
                 count,
                 request.PageNumber,
                 request.PageSize);
@@ -80,7 +80,7 @@ public class CategoryHandler(AppDbContext context) : ICategoryHandler
         catch 
         {
 
-            return new PagedResponse<List<Category?>>(null, 500, "Nao foi possivel consultar as categorias");
+            return new PagedResponse<List<Category>>(null, 500, "Nao foi possivel consultar as categorias");
         }
         
     }

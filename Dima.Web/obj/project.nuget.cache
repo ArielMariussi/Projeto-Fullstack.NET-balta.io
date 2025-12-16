@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SeNmX8lVTQo=",
+  "dgSpecHash": "qUtZNM6kRck=",
   "success": true,
-  "projectFilePath": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.Web\\Dima.Web.csproj",
+  "projectFilePath": "D:\\Ariel\\Balta.io\\Fullstack .NET\\Dima\\Dima.web\\Dima.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ariel\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.12\\microsoft.aspnetcore.authorization.8.0.12.nupkg.sha512",
     "C:\\Users\\Ariel\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.12\\microsoft.aspnetcore.components.8.0.12.nupkg.sha512",

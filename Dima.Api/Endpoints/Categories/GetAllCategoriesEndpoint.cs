@@ -1,8 +1,10 @@
 ﻿using Dima.Api.Common.Api;
+using Dima.Core;
 using Dima.Core.Handlers;
 using Dima.Core.Models;
 using Dima.Core.Requests.Categories;
 using Dima.Core.Responses;
+using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
 namespace Dima.Api.Endpoints.Categories
@@ -15,20 +17,20 @@ namespace Dima.Api.Endpoints.Categories
             .WithSummary("Recupera todas categorias")
             .WithDescription("Recupera todas categorias")
             .WithOrder(5)
-            .Produces<PagedResponse<List<Category?>>>();
+            .Produces<PagedResponse<List<Category>?>>();
 
 
         private static async Task<IResult> HandleAsync(
             ClaimsPrincipal user,
           ICategoryHandler handler,
-          int pageNumber,
-          int pageSize)
+          [FromQuery] int pageNumber = Configuration.DefaultPageNumber,
+          [FromQuery] int pageSize = Configuration.DefaultPageSize)
         {
             var request = new GetAllCategoriesRequest
             {
                 UserId = user.Identity?.Name ?? string.Empty,
-                PageNumber = 1,
-                PageSize = 25
+                PageNumber = pageNumber,
+                PageSize = pageSize,
             };
 
             var result = await handler.GetAllAsync(request);

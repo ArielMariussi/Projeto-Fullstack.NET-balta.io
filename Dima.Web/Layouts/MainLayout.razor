@@ -5,6 +5,8 @@
     @bind-IsDarkMode="_isDarkMode" 
 Theme="Configuration.Theme" />
 <MudSnackbarProvider />
+<MudDialogProvider />
+<MudPopoverProvider />
 
 <AuthorizeView>
     <Authorized>
@@ -16,6 +18,11 @@ Theme="Configuration.Theme" />
                 Edge="Edge.Start"
                 OnClick="ToggleDrawer"/>  
                 Dima
+                <MudSpacer />
+                <MudButton Href="/lancamentos/novo" Variant="Variant.Text"
+                Color="Color.Dark"
+                StartIcon="@Icons.Material.Filled.Add">
+                 NOVO LANCAMENTO</MudButton>
                 <MudSpacer />
                 <MudText>
                     @context.User.Identity?.Name
@@ -30,7 +37,7 @@ Theme="Configuration.Theme" />
                <NavMenu/>
             </MudDrawer>
             <MudMainContent>
-                <MudContainer>
+                <MudContainer Class="mt-4">
                     @Body
                 </MudContainer>
             </MudMainContent>

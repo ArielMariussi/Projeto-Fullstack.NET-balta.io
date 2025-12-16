@@ -20,7 +20,7 @@ public class TransactionHandler(IHttpClientFactory httpClientFactory) : ITransac
 
     public async Task<Response<Transaction?>> DeleteAsync(DeleteTransactionRequest request)
     {
-        var result = await _client.DeleteAsync("v1/transactions/{request.Id}");
+        var result = await _client.DeleteAsync($"v1/transactions/{request.Id}");
         return await result.Content.ReadFromJsonAsync<Response<Transaction?>>()
          ?? new Response<Transaction?>(null, 400, "Nao foi possivel excluir sua transacao");
     }
@@ -42,7 +42,7 @@ public class TransactionHandler(IHttpClientFactory httpClientFactory) : ITransac
             ? request.EndDate.Value.ToString(format)
             : DateTime.Now.GetLastDay().ToString(format);
 
-        var url = $"v1/transaction?startDate={startDate}&endDate={endDate}";
+        var url = $"v1/transactions?startDate={startDate}&endDate={endDate}";
 
       return  await _client.GetFromJsonAsync<PagedResponse<List<Transaction>?>>(url)
             ?? new PagedResponse<List<Transaction>?>(null, 400, "Nao foi possivel obter as transacoes");
@@ -50,7 +50,7 @@ public class TransactionHandler(IHttpClientFactory httpClientFactory) : ITransac
 
     public async Task<Response<Transaction?>> UpdateAsync(UpdateTransactionRequest request)
     {
-        var result = await _client.PutAsJsonAsync("v1/transactions/{request.Id}", request);
+        var result = await _client.PutAsJsonAsync($"v1/transactions/{request.Id}", request);
         return await result.Content.ReadFromJsonAsync<Response<Transaction?>>()
          ?? new Response<Transaction?>(null, 400, "Nao foi possivel atualizar sua transacao");
     }

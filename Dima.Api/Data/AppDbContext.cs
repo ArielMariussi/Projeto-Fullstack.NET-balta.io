@@ -1,5 +1,6 @@
 ﻿using Dima.Api.Models;
 using Dima.Core.Models;
+using Dima.Core.Models.Reports;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -22,12 +23,31 @@ namespace Dima.Api.Data
     {
         public DbSet<Category> Categories { get; set; } = null!;
         public DbSet<Transaction> Transactions { get; set; } = null!;
+        public DbSet<Product> Products { get; set; } = null!;
+        public DbSet<Voucher> Vouchers { get; set; } = null!;
+        public DbSet<Order> Orders { get; set; } = null!;
+
+        public DbSet<IncomesAndExpenses> IncomesAndExpenses { get; set; } = null!;
+        public DbSet<IncomesByCategory> IncomesByCategories { get; set; } = null!;
+        public DbSet<ExpensesByCategory> ExpensesByCategories { get; set; } = null!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
             //vai procura todos os itens que implementam a interface IEntityTypeConfiguration
             // ou seja , nesse caso , os Mappings
+
+            modelBuilder.Entity<IncomesAndExpenses>()
+                .HasNoKey()
+                .ToView("vwGetIncomesAndExpenses");
+
+            modelBuilder.Entity<IncomesByCategory>()
+                .HasNoKey()
+                .ToView("vwGetIncomesByCategory");
+
+            modelBuilder.Entity<ExpensesByCategory>()
+                .HasNoKey()
+                .ToView("vwGetExpensesByCategory");
         }
 
     }
